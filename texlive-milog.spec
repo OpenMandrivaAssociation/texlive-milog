@@ -1,6 +1,6 @@
 Name:		texlive-milog
 Version:	41610
-Release:	1
+Release:	2
 Summary:	A LaTeX class for fulfilling the documentation duties according to the German minimum wage law MiLoG
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/milog
