@@ -3,7 +3,7 @@ Version:	41610
 Release:	2
 Summary:	A LaTeX class for fulfilling the documentation duties according to the German minimum wage law MiLoG
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/milog
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/milog
 License:	lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/milog.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/milog.doc.r%{version}.tar.xz
